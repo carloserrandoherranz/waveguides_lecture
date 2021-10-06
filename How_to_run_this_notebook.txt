@@ -1,0 +1,7 @@
+If you're not familiar with Jupyter notebooks, you can run this notebook on your browser by:
+
+1. Go to https://gke.mybinder.org/ and paste the URL https://github.com/carloserrandoherranz/waveguides_lecture
+
+2. Let it load, and then it should take you into the repository
+
+3. Open the Jupyter notebook and you should be ready to go!
